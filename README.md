@@ -6,7 +6,7 @@ I'm a physicist with a masters in applied physics and I'm all about learning and
 ## Projects:
 | Name | Status | P. Language | Description | Insight |
 | ---- | ------ | ----------- | ----------- | ------- |
-| CT Scan |    | Python |   |    |
-| LIF NN |    | Python |   |    |
-| Reaction-Diffusion |    | C |   |    |
-| Chimera states |    | C++/Python |   |    |
+| CT Scan | Beautifying | Python |   |    |
+| LIF NN | Beautifying | Python |   |    |
+| Reaction-Diffusion | Beautifying | C |   |    |
+| Chimera states | Beautifying | C++/Python |   |    |
